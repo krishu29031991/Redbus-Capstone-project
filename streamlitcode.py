@@ -32,7 +32,6 @@ def fetch_data(query):
         return None
 
 # Streamlit App Layout
-# Streamlit App Layout
 def main():
     # Apply CSS to control the layout and table width
     st.markdown(
